@@ -1,0 +1,26 @@
+{
+  "version": "v0",
+  "release date": "24/02/2026",
+  "author": "Philippe Boutinaud",
+  "url": "https://cloud.efixia.com/sharing/d2jPsn1Ev",
+  "target": "LAC",
+  "modalities": [
+    "t1",
+    "flair"
+  ],
+  "architecture": "ResUnet3D-8.9.2-1.5",
+  "model_format": "SavedModel",
+  "tensorflow_min_version": "2.17",
+  "sha256_zip": "ADB14247FE2A3CA87EF7B44933FF25151363E98E5EB0305E94756AB7F5458DCB",
+  "files": [
+    {
+      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_0_bestvalloss.tf_inference"
+    },
+    {
+      "name": "T1.FLAIR-LAC/20250613-114605_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_1_bestvalloss.tf_inference"
+    },
+    {
+      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_2_bestvalloss.tf_inference"
+    }
+  ]
+}
