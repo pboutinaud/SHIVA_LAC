@@ -14,13 +14,16 @@
   "sha256_zip": "ADB14247FE2A3CA87EF7B44933FF25151363E98E5EB0305E94756AB7F5458DCB",
   "files": [
     {
-      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_0_bestvalloss.tf_inference"
+      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_0_bestvalloss.tf_inference",
+      "md5": "76081a45efc81e13b21eb7f9e12c92a5"
     },
     {
-      "name": "T1.FLAIR-LAC/20250613-114605_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_1_bestvalloss.tf_inference"
+      "name": "T1.FLAIR-LAC/20250613-114605_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_1_bestvalloss.tf_inference",
+      "md5": "663bdb9b4ec01d61e251d9bf651da7eb"
     },
     {
-      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_2_bestvalloss.tf_inference"
+      "name": "T1.FLAIR-LAC/20250613-114524_ResUnet3D-8.9.2-1.5-T1_FLAIR.LAC_1st_fold_2_bestvalloss.tf_inference",
+      "md5": "c55a8511971a9066160f6e453411113e"
     }
   ]
 }
