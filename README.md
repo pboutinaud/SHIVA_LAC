@@ -18,7 +18,7 @@ The segmentation can be computed as the average of the inference of several mode
 
 To access the models :
 * **v0/T1+FLAIR-LAC**: Production models (T1 + FLAIR) based on the ResUnet3D architecture, trained with Keras 3 / TensorFlow ≥ 2.17. Models are stored in TensorFlow SavedModel format (3 folds).
-    * Download: [cloud.efixia.com](https://cloud.efixia.com/sharing/d2jPsn1Ev)
+    * Download: [cloud.efixia.com](https://cloud.efixia.com/sharing/imqU23Nvl)
     * SHA256 checksum : ADB14247FE2A3CA87EF7B44933FF25151363E98E5EB0305E94756AB7F5458DCB
     * JSON file for SHiVAi pipeline: [model_info_t1-flair-lac-v0.json](model_info_t1-flair-lac-v0.json)
 
